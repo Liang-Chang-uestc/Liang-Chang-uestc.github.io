@@ -1,20 +1,24 @@
 # main links links
 main:
+ 
+  - title: "Education and Employment"
+    url: /educations/
+    
   - title: "Publications"
     url: /publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: /talks/
+    
+  - title: "Professional Service"
+    url: /talks/ 
 
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
+  - title: "Awards and Achievements"
+    url: /awards/        
+   
   - title: "CV"
     url: /cv/
     
