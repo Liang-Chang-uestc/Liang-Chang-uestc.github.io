@@ -14,7 +14,7 @@ description              : &description "Ph.D. Associate Professor at University
 url                      : https://liang-chang.uestc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "changhcl/Liang-Chang.uestc.github.io"
-teaser                   :  gitimage # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   :  gitimage.jpg # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Liang Chang"
-  avatar           : "0lc-hp.jpg"
+  avatar           : "gitimage"
   bio              : "Ph.D. Associate Professor at University of Electronic Science and Technology of China"
   location         : "Chengdu, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : https://scholar.google.com.hk/citations?user=5pWnfJcAAAAJ&hl=zh-CN&oi=ao
   email            : "liangchang@uestc.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -106,10 +106,10 @@ author:
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
