@@ -3,6 +3,9 @@ main:
  
   - title: "Education and Employment"
     url: /educations/
+            
+  - title: "Members"
+    url: /markdown/
     
   - title: "Publications"
     url: /publications/
@@ -17,10 +20,10 @@ main:
     url: /teaching/    
     
   - title: "Awards and Achievements"
-    url: /awards/        
-   
-  - title: "CV"
-    url: /cv/
+    url: /awards/    
     
-  - title: "Guide"
-    url: /markdown/
+    
+   
+#   - title: "CV"
+#     url: /cv/
+
