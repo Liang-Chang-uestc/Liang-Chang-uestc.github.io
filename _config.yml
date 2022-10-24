@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Liang Chang"
-  avatar           : "gitimage"
+  avatar           : "gitimage.jpg"
   bio              : "Ph.D. Associate Professor at University of Electronic Science and Technology of China"
   location         : "Chengdu, China"
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Liang Chang"
+  github           : "Liang-Chang"
   google_plus      :
   keybase          :
   instagram        :
