@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Liang Chang"
 title_separator          : "-"
 name                     : &name "Liang Chang"
-description              : &description "Ph.D. Associate Professor at University of Electronic Science and Technology of China"
+description              : &description "Ph.D., Associate Professor at University of Electronic Science and Technology of China"
 url                      : https://liang-chang.uestc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "changhcl/Liang-Chang.uestc.github.io"
@@ -84,9 +84,9 @@ author:
   avatar           : "gitimage.png"
   bio              : "Ph.D. Associate Professor at University of Electronic Science and Technology of China"
   location         : "Chengdu, China"
-  employer         :
-  pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : https://scholar.google.com.hk/citations?user=5pWnfJcAAAAJ&hl=zh-CN&oi=ao
+  employer         : "UESTC"
+  pubmed           :  
+  googlescholar    : "https://scholar.google.com.hk/citations?user=5pWnfJcAAAAJ&hl=zh-CN&oi=ao"
   email            : "liangchang@uestc.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Liang-Chang"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : 
@@ -309,3 +309,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+    
