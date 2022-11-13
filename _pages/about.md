@@ -21,6 +21,8 @@ Click [here](../pages/cv) to find my up-to-date CV.
 
 <a type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=6AjAnwmIYquPYU_qVegL3qa1-llGAoVwOxw5KZCbXZM"></a>
 
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=6AjAnwmIYquPYU_qVegL3qa1-llGAoVwOxw5KZCbXZM"></script>
+
 <!-- hitwebcounter Code START -->
 <a href="https://www.hitwebcounter.com" target="_blank">
 <img src="https://hitwebcounter.com/counter/counter.php?page=8065533&style=0038&nbdigits=6&type=page&initCount=0" title="Free Counter" Alt="web counter"   
