@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Liang Chang"
+title                    : "Home"
 title_separator          : "-"
-name                     : &name "Liang Chang"
-description              : &description "Ph.D., Associate Professor at University of Electronic Science and Technology of China"
-url                      : https://liang-chang.uestc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Liang Chang's Homepage"
+description              : &description "Associate Professor"
+url                      : https://liang-chang-uestc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "changhcl/Liang-Chang.uestc.github.io"
+repository               : "changhcl/liang-chang-uestc.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -76,16 +76,16 @@ analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
-
-
+ 
+ 
 # Site Author
 author:
   name             : "Liang Chang"
   avatar           : "gitimage.png"
   bio              : "Ph.D. Associate Professor at University of Electronic Science and Technology of China"
-  location         : "Chengdu, China"
+  location         : "Chengdu"
   employer         : "UESTC"
-  pubmed           :  
+  pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=5pWnfJcAAAAJ&hl=zh-CN&oi=ao"
   email            : "liangchang@uestc.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         :
+  linkedin         : 
   orcid            : 
   pinterest        :
   soundcloud       :
@@ -309,4 +309,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-    
+
