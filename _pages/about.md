@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 **Associate Professor at UESTC, Visting Scholar at HKUST**
+
 *University of Electronic Science and Technology of China (UESTC)*
 *Hong Kong University of Science and Technology (HKUST)*
 
@@ -19,10 +20,42 @@ Click [here](../pages/cv) to find my up-to-date CV.
 
 
 ## News
++ [2022-10-30] Our ICTA paper is selected as Best Paper Award. 
 + [2022-10-4] Dr. Chang will visit HKUST as visiting scholar. 
 
 ## Honors and Awards
 * <b Best Paper Award\b> IEEE ICTA 2022. 
+
+## Professional Experience
+oct. 2022 - Present: **The Hong Kong University of Science and Technology (HKUST)**
+* **Visiting Scholar*
+* Department of Electronic and Computer Engineering
+
+Sep. 2016 - Nov. 2018: **University of California, Santa Barbara (UCSB)**
+* **Visiting Ph.D. Student**
+
+Nov.2014 - Oct. 2015: **AMD China**
+* **Senior Engineer**
+
+Apr.2012 - Nov. 2014: **China Golarun**
+* **Engineer**
+
+## Education
+Sep. 2015 - Nov. 2019: **Beihang University**
+* **Ph.D. degree** in Electronic Science and Technology
+  - Advisor: Prof. [Youguang Zhang](https://ieeexplore.ieee.org/author/37085880412), Prof. [Weisheng Zhao](https://shi.buaa.edu.cn/09688/en/index.htm) and Prof. [Zhaohao Wang](https://shi.buaa.edu.cn/howard/en/index.htm)
+
+Sep. 2011 - Jour. 2014: **Beihang University**
+* **Master degree** in IC design and system
+*Dissertation: **Verification Environment for Float-point Computation Unit**
+  -Beihang Excellent Dissertation Award
+  -Advisor: Prof. Lihua Wang
+Sep. 2008 - Jul. 2011: *University of Electronic Science and Technology of China*
+* **Double B.S. degree**
+
+Sep. 2007 - Jul. 2011: *Chengdu University of Information and Technology*
+**B.S. degree**
+
 
 ## Recent Visit
 <a href="https://clustrmaps.com/site/1brbw" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=6AjAnwmIYquPYU_qVegL3qa1-llGAoVwOxw5KZCbXZM&cl=ffffff"></a>
