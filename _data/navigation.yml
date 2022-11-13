@@ -1,8 +1,8 @@
 # main links links
 main: 
-  - title: "Education and Employment"
-    url: /educations/
-            
+  - title: "Research"
+    url: /research/ 
+          
   - title: "Team"
     url: /team/
     
@@ -15,17 +15,8 @@ main:
   - title: "Talks"
     url: /talks/
     
-  - title: "Professional Service"
+  - title: "Service"
     url: /service/ 
 
   - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Awards and Achievements"
-    url: /awards/    
-    
-    
-   
-#   - title: "CV"
-#     url: /cv/
-
+    url: /teaching/   
