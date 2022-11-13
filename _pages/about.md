@@ -24,11 +24,14 @@ Click [here](../pages/cv) to find my up-to-date CV.
 + [2022-10-4] Dr. Chang will visit HKUST as visiting scholar. 
 
 ## Honors and Awards
-* <b Best Paper Award\b> IEEE ICTA 2022. 
+* **Best Paper Award** IEEE ICTA 2022. 
+* **PRIMEASIA Award** IEEE PRIMEASIA 2022.
+* **Excellent Advisor**, 2021
+* **Excellent Advisor**, 2021
 
 ## Professional Experience
 oct. 2022 - Present: **The Hong Kong University of Science and Technology (HKUST)**
-* **Visiting Scholar*
+* **Visiting Scholar**
 * Department of Electronic and Computer Engineering
 
 Sep. 2016 - Nov. 2018: **University of California, Santa Barbara (UCSB)**
