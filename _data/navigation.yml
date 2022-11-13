@@ -4,17 +4,20 @@ main:
   - title: "Education and Employment"
     url: /educations/
             
-  - title: "Members"
-    url: /markdown/
+  - title: "Team"
+    url: /team/
     
   - title: "Publications"
     url: /publications/
+    
+  - title: "Projects"
+    url: /projects/ 
 
   - title: "Talks"
     url: /talks/
     
   - title: "Professional Service"
-    url: /talks/ 
+    url: /service/ 
 
   - title: "Teaching"
     url: /teaching/    
