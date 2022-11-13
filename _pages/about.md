@@ -18,10 +18,9 @@ Click [here](../pages/cv) to find my up-to-date CV.
 + [2022-10-4] Dr. Chang will visit HKUST as visiting scholar. 
 
 ## Recent Visit
+<a href="https://clustrmaps.com/site/1brbw" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=6AjAnwmIYquPYU_qVegL3qa1-llGAoVwOxw5KZCbXZM&cl=ffffff"></a>
 
-<a type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=6AjAnwmIYquPYU_qVegL3qa1-llGAoVwOxw5KZCbXZM"></a>
-
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=6AjAnwmIYquPYU_qVegL3qa1-llGAoVwOxw5KZCbXZM"></script>
+<br>
 
 <!-- hitwebcounter Code START -->
 <a href="https://www.hitwebcounter.com" target="_blank">
