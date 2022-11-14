@@ -30,12 +30,17 @@ Click [here](../pages/cv) to find my up-to-date CV.
 * **Excellent Advisor**, 2021
 
 ## Professional Experience
-oct. 2022 - Present: **The Hong Kong University of Science and Technology (HKUST)**
+Oct. 2022 - Present: **The Hong Kong University of Science and Technology (HKUST)**
 * **Visiting Scholar**
 * Department of Electronic and Computer Engineering
 
+Mar. 2020 - Present: **University of Electronic Science and Technology of China**
+* **Associate Professor**
+* School of Information and Communication Engineering
+
 Sep. 2016 - Nov. 2018: **University of California, Santa Barbara (UCSB)**
 * **Visiting Ph.D. Student**
+* Department of Electronic and Computer Engineering
 
 Nov.2014 - Oct. 2015: **AMD China**
 * **Senior Engineer**
