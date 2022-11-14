@@ -22,3 +22,9 @@ author_profile: true
 ## Conference Technical Program Committee
 -IEEE ICTA (2021-2022)
 -Special Session Chair, ISOCC 2021.
+
+## Professional Service
+-CCF Senior Member (2022 - ).
+-COS Senior Member (2022 - ).
+-Member of Special committee of Memory and Information of CCF.
+-Member of IEEE and ACM.
