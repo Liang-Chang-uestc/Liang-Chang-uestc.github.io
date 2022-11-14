@@ -15,7 +15,7 @@ redirect_from:
 *Hong Kong University of Science and Technology (HKUST)*
 
 ## Short Bio
-Liang Chang is an associate professor in School of Information and Communication Engineering, University of Electronic Science and Technology of China. He received his Ph.D. degree from Beihang University in 2019, supervised by IEEE Fellow, [Prof. Weisheng Zhao](https://shi.buaa.edu.cn/09688/en/index/28579/list/index.htm). During 2016 - 2018, he worked as visiting Ph.D. student at University of California, Santa Barbara, supervised by IEEE/ACM/AAAS Fellow, Prof. Yuan Xie. During 2012 and 2015, he worked as engineer in AMD China and China Glurun Technology, where he participated in three CPU chip design and verification. His research interests contain Artifical Intelligent Chip algorithm-hardware co-design, emerging nonvolatile memory circuit, memory-centric computing architecture.
+Liang Chang is [an associate professor](https://faculty.uestc.edu.cn/changliang/en/index/366304/list/index.htm) in School of Information and Communication Engineering, University of Electronic Science and Technology of China. He is also visiting scholar working with Prof. [Tim Cheng](https://seng.hkust.edu.hk/about/people/faculty/tim-kwang-ting-cheng?id=326) and Prof. [Chi-Ying Tsui](https://seng.hkust.edu.hk/about/people/faculty/chi-ying-tsui). He received his Ph.D. degree from Beihang University in 2019, supervised by IEEE Fellow, [Prof. Weisheng Zhao](https://shi.buaa.edu.cn/09688/en/index/28579/list/index.htm). During 2016 - 2018, he worked as visiting Ph.D. student at University of California, Santa Barbara, supervised by IEEE/ACM/AAAS Fellow, Prof. Yuan Xie. During 2012 and 2015, he worked as engineer in AMD China and China Glurun Technology, where he participated in three CPU chip design and verification. His research interests contain Artifical Intelligent Chip algorithm-hardware co-design, emerging nonvolatile memory circuit, memory-centric computing architecture.
 
 Click [here](../pages/cv) to find my up-to-date CV.
 
@@ -26,12 +26,15 @@ Click [here](../pages/cv) to find my up-to-date CV.
 
 ## Honors and Awards
 * **Best Paper Award** IEEE ICTA 2022. 
-* **PRIMEASIA Award** IEEE PRIMEASIA 2022.
-* **Excellent Postgraduate Teaching Award** of University, 2022
+* **PRIMEASIA Certificate Award** IEEE PRIMEASIA 2022.
+* **Excellent Postgraduate Teaching Award** of University, 2022.
 * **Best Instructor** of 4th China Graduate Student Innovation Chips Competition, 2021.
 * **Best Instructor** of 16th Chinese Graduate Electronic Design Competition, 2021.
 * **Excellent Instructor** of 3rd Chinese Graduate AI Innovation Competition, 2021.
 * **Outstanding Class Teacher Award** of University, 2021.
+* **Outstanding Graduated Student Award** of University, 2019.
+* **China Scholarship Council Award**, of CSC, 2017.
+* **Outstanding Master Dissertation**, of University, 2014. 
 
 ## Professional Experience
 
