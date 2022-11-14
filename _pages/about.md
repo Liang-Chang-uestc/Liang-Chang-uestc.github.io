@@ -11,10 +11,11 @@ redirect_from:
 **Associate Professor at UESTC, Visting Scholar at HKUST**
 
 *University of Electronic Science and Technology of China (UESTC)*
+
 *Hong Kong University of Science and Technology (HKUST)*
 
 ## Short Bio
-Liang Chang is an associate professor in School of Information and Communication Engineering, University of Electronic Science and Technology of China. He received his Ph.D. degree from Beihang University in 2019, supervised by IEEE Fellow, [Prof. Weisheng Zhao](https://shi.buaa.edu.cn/09688/en/index/28579/list/index.htm). During 2016 - 2018, he worked as visiting Ph.D. student at University of California, Santa Barbara, supervised by IEEE/ACM/AAAS Fellow, Prof. Yuan Xie. During 2012 and 2015, he worked as engineer in AMD China and China Glurun Technology, where he participated in three CPU chip design and verification. His research interests contain Artifical Intelligent Chip software-hardware co-design, emerging nonvolatile memory circuit, memory-centric computing architecture.
+Liang Chang is an associate professor in School of Information and Communication Engineering, University of Electronic Science and Technology of China. He received his Ph.D. degree from Beihang University in 2019, supervised by IEEE Fellow, [Prof. Weisheng Zhao](https://shi.buaa.edu.cn/09688/en/index/28579/list/index.htm). During 2016 - 2018, he worked as visiting Ph.D. student at University of California, Santa Barbara, supervised by IEEE/ACM/AAAS Fellow, Prof. Yuan Xie. During 2012 and 2015, he worked as engineer in AMD China and China Glurun Technology, where he participated in three CPU chip design and verification. His research interests contain Artifical Intelligent Chip algorithm-hardware co-design, emerging nonvolatile memory circuit, memory-centric computing architecture.
 
 Click [here](../pages/cv) to find my up-to-date CV.
 
