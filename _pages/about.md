@@ -27,10 +27,14 @@ Click [here](../pages/cv) to find my up-to-date CV.
 ## Honors and Awards
 * **Best Paper Award** IEEE ICTA 2022. 
 * **PRIMEASIA Award** IEEE PRIMEASIA 2022.
-* **Excellent Advisor**, 2021
-* **Excellent Advisor**, 2021
+* **Excellent Postgraduate Teaching Award** of University, 2022
+* **Best Instructor** of 4th China Graduate Student Innovation Chips Competition, 2021.
+* **Best Instructor** of 16th Chinese Graduate Electronic Design Competition, 2021.
+* **Excellent Instructor** of 3rd Chinese Graduate AI Innovation Competition, 2021.
+* **Outstanding Class Teacher Award** of University, 2021.
 
 ## Professional Experience
+
 Oct. 2022 - Present: **The Hong Kong University of Science and Technology (HKUST)**
 * **Visiting Scholar**
 * Department of Electronic and Computer Engineering
