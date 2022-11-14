@@ -56,7 +56,7 @@ Sep. 2015 - Nov. 2019: **Beihang University**
 
 Sep. 2011 - Jour. 2014: **Beihang University**
 * **Master degree** in IC design and system
-*Dissertation: **Verification Environment for Float-point Computation Unit**
+* Dissertation: **Verification Environment for Float-point Computation Unit**
   -Beihang Excellent Dissertation Award
   -Advisor: Prof. Lihua Wang
   
@@ -64,7 +64,7 @@ Sep. 2008 - Jul. 2011: **University of Electronic Science and Technology of Chin
 * **Double B.S. degree** in Business Management
 
 Sep. 2007 - Jul. 2011: **Chengdu University of Information and Technology**
-**B.S. degree** in Electronic Science and Technology
+* **B.S. degree** in Electronic Science and Technology
 
 
 ## Recent Visit
