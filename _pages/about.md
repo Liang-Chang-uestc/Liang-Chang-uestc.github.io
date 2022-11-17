@@ -78,7 +78,6 @@ Sep. 2007 - Jul. 2011: **Chengdu University of Information and Technology**
 <a href="https://clustrmaps.com/site/1brbw" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=6AjAnwmIYquPYU_qVegL3qa1-llGAoVwOxw5KZCbXZM&cl=ffffff"></a>
 
 <br>
-
 <!-- hitwebcounter Code START -->
 <a href="https://www.hitwebcounter.com" target="_blank">
 <img src="https://hitwebcounter.com/counter/counter.php?page=8065533&style=0038&nbdigits=6&type=page&initCount=0" title="Free Counter" Alt="web counter"   
