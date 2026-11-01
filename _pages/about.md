@@ -8,21 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-**Associate Professor at UESTC, Visting Scholar at HKUST**
+**Full Professor at UESTC**
 
 *University of Electronic Science and Technology of China (UESTC)*
 
-*Hong Kong University of Science and Technology (HKUST)*
-
 ## Short Bio
-Liang Chang is [an associate professor](https://faculty.uestc.edu.cn/changliang/en/index/366304/list/index.htm) in School of Information and Communication Engineering, University of Electronic Science and Technology of China. He is also visiting scholar working with Prof. [Tim Cheng](https://seng.hkust.edu.hk/about/people/faculty/tim-kwang-ting-cheng?id=326) and Prof. [Chi-Ying Tsui](https://seng.hkust.edu.hk/about/people/faculty/chi-ying-tsui). He received his Ph.D. degree from Beihang University in 2019, supervised by IEEE Fellow, [Prof. Weisheng Zhao](https://shi.buaa.edu.cn/09688/en/index/28579/list/index.htm). During 2016 - 2018, he worked as visiting Ph.D. student at University of California, Santa Barbara, supervised by IEEE/ACM/AAAS Fellow, Prof. Yuan Xie. During 2012 and 2015, he worked as engineer in AMD China and China Glurun Technology, where he participated in three CPU chip design and verification. His research interests contain Artifical Intelligent Chip algorithm-hardware co-design, emerging nonvolatile memory circuit, memory-centric computing architecture.
+Liang Chang is [a full professor](https://faculty.uestc.edu.cn/changliang/en/index/366304/list/index.htm) in School of Information and Communication Engineering, University of Electronic Science and Technology of China. He received his Ph.D. degree from Beihang University in 2019. During 2016 - 2018, he worked as visiting Ph.D. student at University of California, Santa Barbara. During 2012 and 2015, he worked as engineer in AMD China and China Glurun Technology, where he participated in three CPU chip design and verification. He was a visiting scholar at Hong Kong University of Science and Technology. His research interests low-power circuit and architecture design for AI chip, emerging nonvolatile memory circuit, memory-centric computing architecture.
 
 Click [here](../pages/cv) to find my up-to-date CV.
 
 
 ## News
-+ [2022-10-30] Our ICTA paper is selected as Best Paper Award. 
-+ [2022-10-4] Dr. Chang will visit HKUST as visiting scholar. 
++ [2026-10-30] Prof. Chang is seleted by the National Youth Talent Support Program.
++ [2026-08-15] Our IEEE BIGDIA paper is selected as Best student Paper Award, completed by Yancheng Chen et al.
++ [2025-08.30] Our project was seleted as First Prize of Sichuan Provincial Science and Technology Progress Award, for our contribution on low-power sparsity general Accelerator technique. 
 
 ## Honors and Awards
 * **Best Paper Award** IEEE ICTA 2022. 
@@ -38,7 +37,7 @@ Click [here](../pages/cv) to find my up-to-date CV.
 
 ## Professional Experience
 
-Oct. 2022 - Present: **The Hong Kong University of Science and Technology (HKUST)**
+Oct. 2022 - Oct. 2023: **The Hong Kong University of Science and Technology (HKUST)**
 * **Visiting Scholar**
 * Department of Electronic and Computer Engineering
 
